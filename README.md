@@ -1,2 +1,0 @@
-# INFORMATION-SYSTEM-USING-BIT-STRINGS-
-This project mainly deals with student information system, where we store the data and access the same. But the method of storing &amp; accessing the data are quite different from the normal ones. Here the memory required to store the data is quite less compared to the normal one. To this, we make use of an encoding &amp; decoding technique making use of the selected ASCII’s.
